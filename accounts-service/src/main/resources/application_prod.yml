@@ -1,0 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to PROD"
+  contactDetails:
+    name: "Arda En"
+    email: "arda.enguzel3@gmail.com"

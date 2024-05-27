@@ -1,0 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profile: "isolated"
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to QA"
+  contactDetails:
+    name: "Arda Engüzel"
+    email: "arda.enguzel3@gmail.com"
