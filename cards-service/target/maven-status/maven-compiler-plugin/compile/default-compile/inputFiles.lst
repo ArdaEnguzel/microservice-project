@@ -1,0 +1,14 @@
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\cards-service\src\main\java\com\microservice\exception\ResourceNotFoundException.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\cards-service\src\main\java\com\microservice\exception\CardAlreadyExistsException.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\cards-service\src\main\java\com\microservice\mapper\CardMapper.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\cards-service\src\main\java\com\microservice\repository\CardRepository.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\cards-service\src\main\java\com\microservice\dto\ErrorResponseDto.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\cards-service\src\main\java\com\microservice\entity\Card.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\cards-service\src\main\java\com\microservice\dto\ResponseDto.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\cards-service\src\main\java\com\microservice\exception\GlobalExceptionHandler.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\cards-service\src\main\java\com\microservice\controller\CardController.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\cards-service\src\main\java\com\microservice\entity\BaseEntity.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\cards-service\src\main\java\com\microservice\constants\CardConstants.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\cards-service\src\main\java\com\microservice\dto\CardDto.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\cards-service\src\main\java\com\microservice\CardsServiceApplication.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\cards-service\src\main\java\com\microservice\service\CardService.java

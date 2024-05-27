@@ -1,0 +1,13 @@
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\loans-service\src\main\java\com\microservice\entity\BaseEntity.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\loans-service\src\main\java\com\microservice\exception\LoanAlreadyExistsException.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\loans-service\src\main\java\com\microservice\constants\LoanConstants.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\loans-service\src\main\java\com\microservice\service\LoanService.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\loans-service\src\main\java\com\microservice\exception\GlobalExceptionHandler.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\loans-service\src\main\java\com\microservice\entity\Loan.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\loans-service\src\main\java\com\microservice\dto\LoanDto.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\loans-service\src\main\java\com\microservice\LoansServiceApplication.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\loans-service\src\main\java\com\microservice\dto\ErrorResponseDto.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\loans-service\src\main\java\com\microservice\dto\ResponseDto.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\loans-service\src\main\java\com\microservice\mapper\LoanMapper.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\loans-service\src\main\java\com\microservice\repository\LoanRepository.java
+C:\Users\ardae\OneDrive\Masaüstü\Microservices\loans-service\src\main\java\com\microservice\exception\ResourceNotFoundException.java
